@@ -1,6 +1,11 @@
 # Formador-de-Grupos-Aulao
 Código criado para a divisão de grupos criado par ao Aulão do Colégio Sagrado Coração de Maria Vitória de 19/07/2021
 
+Primeiramente, distribui-se os alunos mais próximos das Ciências da Natureza. Dentre eles, distribui-se da 3ª à 1ª série.
+Logo depois, distribui-se os alunos mais próximos da Matemática. Novamente, distribui-se da 3ª à 1ª série.
+Por fim, distribui-se os alunos mais próximos das Ciências Humanas ou de Linguagens e Códigos. Utiliza-se o mesmo critério para as séries.
+
+
 Para executar o arquivo, é necessário haver, na mesma pasta dele, um arquivo excel (.xlsx) com o nome de "Equipes Aulão Enem".
 O arquivo deverá conter três colunas:
 
