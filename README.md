@@ -5,11 +5,13 @@ Para executar o arquivo, é necessário haver, na mesma pasta dele, um arquivo e
 O arquivo deverá conter três colunas:
 
 
+
 "Nome completo sem abreviação" com os nomes dos alunos;
 
 "Série" com a série dos alunos;
 
 "Área de conhecimento de maior afinidade" com a área com que os alunos mais se identificam.
+
 
 
 Ao executar o arquivo .py, será criado um arquivo de texto (.txt) com o nome de "Grupos" que conterá a divisão dos grupos.
