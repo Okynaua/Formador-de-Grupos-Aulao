@@ -60,10 +60,8 @@ global g
 g = 0
 
 #Importa a tabela excel
-try:
-    dados_df = pd.read_excel(r"Equipes Aulão Enem.xlsx")
-except:
-    input('\nArquivo "Equipes Aulão Enem" não encontrado.\n\n\nPressione "Enter" para fechar.\n')
+try: dados_df = pd.read_excel(r"Equipes Aulão Enem.xlsx")
+except: input('\nArquivo "Equipes Aulão Enem" não encontrado.\n\n\nPressione "Enter" para fechar.\n')
 
 #Ciências da Natureza
 CN = dados_df.loc[dados_df['Área de conhecimento de maior afinidade'] == 'Ciências da Natureza']
